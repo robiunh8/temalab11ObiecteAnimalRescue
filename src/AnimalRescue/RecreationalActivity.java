@@ -1,2 +1,5 @@
-package AnimalRescue;public class RecreationalActivity {
+package AnimalRescue;
+
+public class RecreationalActivity {
+    String nameofRecActivity= "going for a walk";
 }

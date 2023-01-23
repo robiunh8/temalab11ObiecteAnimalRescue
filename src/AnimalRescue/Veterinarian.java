@@ -1,2 +1,7 @@
-package AnimalRescue;public class Veterinarian {
+package AnimalRescue;
+
+public class Veterinarian {
+    String nameOfVet="Bob";
+    String vetSpecialty="nutrition";
+
 }
